@@ -2,9 +2,6 @@
 ## ⚡ Smart Contract Engineer • Full-Stack Web3 Developer
 **Building secure, scalable, and production-ready Web3 infrastructure.**
 
-<p align="left">
-  <img src="https://demolab.to" alt="Typing SVG" />
-</p>
 --
 
 ### About Me
@@ -14,18 +11,18 @@ A results-driven **Smart Contract Engineer & Full-Stack Web3 Developer** focused
 * 🌱 **Deep Diving:** Zero-Knowledge Proofs (ZKP) & cross-chain infrastructure.
 * 💬 **Ask Me About:** Solidity, Foundry, Hardhat, Wagmi/Viem, and frontend-to-backend integration.
 * 📍 **Location:** Bangladesh (Open to Global Remote Roles 🌍
-* 
+
 ---
 
 ### 🛠️ Tech Stack & Web3 Core Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **📜 Smart Contract Dev** | Smart Contract Engineer, Solidity, Foundry, Hardhat, Chainlink |
-| **🔗 Web3 Interaction Layer** | Smart Contract Integration, Ethers.js, Web3.js, Wagmi, Viem |
-| **💻 Full-Stack & DevOps** | Frontend-Backend Integration, JavaScript, React, Next.js, Node.js, REST APIs |
-| **💼 Wallet & Storage** |  Wallet Integration, WalletConnect, Reown AppKit, IPFS |
-| **⚙️ DevOps & Tooling** | Web3 dApps Development, Git, GitHub |
+| **📜 Smart Contract Dev** | **Smart Contract Engineer, Solidity, Foundry, Hardhat, Chainlink** |
+| **🔗 Web3 Interaction Layer** | **Smart Contract Integration, Ethers.js, Web3.js, Wagmi, Viem** |
+| **💻 Full-Stack & DevOps** | **Frontend-Backend Integration, JavaScript, React, Next.js, Node.js, REST APIs** |
+| **💼 Wallet & Storage** |  **Wallet Integration, WalletConnect, Reown AppKit, IPFS** |
+| **⚙️ DevOps & Tooling** | **Web3 dApps Development, Git, GitHub** |
 
 ---
 
