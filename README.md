@@ -1,81 +1,40 @@
-# <img src="https://githubusercontent.com" width="30px"> Hi, I'm Md Hanif Mia!
-### ⚡ Smart Contract Engineer • Full-Stack Web3 Developer
+# Hi, I'm Md Hanif Mia! 
+## ⚡ Smart Contract Engineer • Full-Stack Web3 Developer
 **Building secure, scalable, and production-ready Web3 infrastructure.**
 
 <p align="left">
   <img src="https://demolab.to" alt="Typing SVG" />
 </p>
+--
 
----
+### About Me
+A results-driven **Smart Contract Engineer & Full-Stack Web3 Developer** focused on building secure, optimized, and scalable decentralized systems. I excel at converting complex blockchain logic into high-performance, full-stack dApps.
 
-### 💫 About Me
-A dedicated and results-driven **Full-Stack Web3 Developer** specializing in core Smart Contract development and seamless decentralized architectures. I focus on security, gas optimization, and building robust integration layers for dApps.
-
-- 🔭 **Current Focus:** Auditing Smart Contracts & advancing DeFi protocol integrations.
-- 🌱 **Learning & Improving:** Advanced Zero-Knowledge proofs (ZKP) and cross-chain mechanics.
-- 💬 **Ask me about:** `Solidity`, `Foundry`, `Hardhat`, `Wagmi/Viem`, and frontend-to-blockchain integration.
-- 📍 **Location:** Rangpur, Bangladesh.
-
+* 🔭 **Current Focus:** DeFi protocol architecture & smart contract optimization.
+* 🌱 **Deep Diving:** Zero-Knowledge Proofs (ZKP) & cross-chain infrastructure.
+* 💬 **Ask Me About:** Solidity, Foundry, Hardhat, Wagmi/Viem, and frontend-to-backend integration.
+* 📍 **Location:** Bangladesh (Open to Global Remote Roles 🌍
+* 
 ---
 
 ### 🛠️ Tech Stack & Web3 Core Skills
 
-#### 📜 Smart Contract Development & Tools
-<p align="left">
-  <img src="https://shields.io" alt="Solidity" />
-  <img src="https://shields.io" alt="Foundry" />
-  <img src="https://shields.io" alt="Hardhat" />
-</p>
-
-#### 🔗 Web3 Interaction Layer & Smart Contract Integration
-<p align="left">
-  <img src="https://shields.io" alt="Ethers.js" />
-  <img src="https://shields.io" alt="Wagmi" />
-  <img src="https://shields.io" alt="Viem" />
-  <img src="https://shields.io" alt="Chainlink" />
-</p>
-
-#### 💼 Wallet Integration & Storage (Web3 dApps)
-<p align="left">
-  <img src="https://shields.io" alt="WalletConnect" />
-  <img src="https://shields.io" alt="IPFS" />
-</p>
-
-#### 💻 Full-Stack Development & Tools
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="Node.js" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="GitHub" />
-</p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **📜 Smart Contract Dev** | Smart Contract Engineer, Solidity, Foundry, Hardhat, Chainlink |
+| **🔗 Web3 Interaction Layer** | Smart Contract Integration, Ethers.js, Web3.js, Wagmi, Viem |
+| **💻 Full-Stack & DevOps** | Frontend-Backend Integration, JavaScript, React, Next.js, Node.js, REST APIs |
+| **💼 Wallet & Storage** |  Wallet Integration, WalletConnect, Reown AppKit, IPFS |
+| **⚙️ DevOps & Tooling** | Web3 dApps Development, Git, GitHub |
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Hanif's GitHub Stats" /><br/><br/>
-  <img src="https://vercel.app" alt="Top Languages" /><br/><br/>
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
-
----
-
-### 🤝 Connect With Me
+###  Connect With Me
 Let's talk about Web3, Smart Contracts, or Collaboration!
 
-<p align="left">
-  <a href="mailto:hanifer199341@gmail.com">
-    <img src="https://shields.io" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://shields.io" alt="Twitter" />
-  </a>
-</p>
+-  **Email:** [hanifer199341@gmail.com](mailto:hanifer199341@gmail.com)
+-  **LinkedIn:** [://linkedin.com](https://linkedin.com)
+-  **Twitter (X):** [://x.com](https://x.com/novexfi_web3)
 
 ---
 <p align="center">🕵️‍♂️ <i>"In Code and Consensus We Trust."</i></p>
