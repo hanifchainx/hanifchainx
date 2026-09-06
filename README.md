@@ -37,7 +37,6 @@ A dedicated and results-driven **Full-Stack Web3 Developer** specializing in cor
 
 #### 💼 Wallet Integration & Storage (Web3 dApps)
 <p align="left">
-  <img src="https://shields.io" alt="Reown AppKit" />
   <img src="https://shields.io" alt="WalletConnect" />
   <img src="https://shields.io" alt="IPFS" />
 </p>
@@ -55,19 +54,16 @@ A dedicated and results-driven **Full-Stack Web3 Developer** specializing in cor
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://vercel.app" alt="Hanif's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+<p align="left">
+  <img src="https://vercel.app" alt="Hanif's GitHub Stats" /><br/><br/>
+  <img src="https://vercel.app" alt="Top Languages" /><br/><br/>
+  <img src="https://herokuapp.com" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect With Me
-Let's build something innovative or talk about the future of Web3!
+Let's talk about Web3, Smart Contracts, or Collaboration!
 
 <p align="left">
   <a href="mailto:hanifer199341@gmail.com">
