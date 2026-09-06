@@ -1,34 +1,85 @@
-<h1 align="center">Hi, I'm Md Hanif Mia</h1>
-<h3 align="center">Aspiring Blockchain Developer from Bangladesh</h3>
+# <img src="https://githubusercontent.com" width="30px"> Hi, I'm Md Hanif Mia!
+### ⚡ Smart Contract Engineer • Full-Stack Web3 Developer
+**Building secure, scalable, and production-ready Web3 infrastructure.**
 
-About Me
--  Blockchain & Web3 Developer
--  Specialized in Solidity, Hardhat & Smart Contracts
--  Building decentralized applications
-- 📍 Rangpur, Bangladesh
+<p align="left">
+  <img src="https://demolab.to" alt="Typing SVG" />
+</p>
 
-###  Skills & Tools
-- Solidity
-- Hardhat
-- JavaScript
-- React.js
-- node.js
-- Git
-- GitHub
-- Web3
-- ether.js
+---
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+### 💫 About Me
+A dedicated and results-driven **Full-Stack Web3 Developer** specializing in core Smart Contract development and seamless decentralized architectures. I focus on security, gas optimization, and building robust integration layers for dApps.
 
-### GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOURUSERNAME&theme=tokyonight)
+- 🔭 **Current Focus:** Auditing Smart Contracts & advancing DeFi protocol integrations.
+- 🌱 **Learning & Improving:** Advanced Zero-Knowledge proofs (ZKP) and cross-chain mechanics.
+- 💬 **Ask me about:** `Solidity`, `Foundry`, `Hardhat`, `Wagmi/Viem`, and frontend-to-blockchain integration.
+- 📍 **Location:** Rangpur, Bangladesh.
 
-### Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+---
 
-### Profile Views
-![Visitor Count](https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat)
+### 🛠️ Tech Stack & Web3 Core Skills
 
-### Connect With Me
-📧 Email: hanifer199341@gmail.com
+#### 📜 Smart Contract Development & Tools
+<p align="left">
+  <img src="https://shields.io" alt="Solidity" />
+  <img src="https://shields.io" alt="Foundry" />
+  <img src="https://shields.io" alt="Hardhat" />
+</p>
+
+#### 🔗 Web3 Interaction Layer & Smart Contract Integration
+<p align="left">
+  <img src="https://shields.io" alt="Ethers.js" />
+  <img src="https://shields.io" alt="Wagmi" />
+  <img src="https://shields.io" alt="Viem" />
+  <img src="https://shields.io" alt="Chainlink" />
+</p>
+
+#### 💼 Wallet Integration & Storage (Web3 dApps)
+<p align="left">
+  <img src="https://shields.io" alt="Reown AppKit" />
+  <img src="https://shields.io" alt="WalletConnect" />
+  <img src="https://shields.io" alt="IPFS" />
+</p>
+
+#### 💻 Full-Stack Development & Tools
+<p align="left">
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Node.js" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://vercel.app" alt="Hanif's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+Let's build something innovative or talk about the future of Web3!
+
+<p align="left">
+  <a href="mailto:hanifer199341@gmail.com">
+    <img src="https://shields.io" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://shields.io" alt="Twitter" />
+  </a>
+</p>
+
+---
+<p align="center">🕵️‍♂️ <i>"In Code and Consensus We Trust."</i></p>
