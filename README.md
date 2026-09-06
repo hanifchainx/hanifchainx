@@ -2,7 +2,7 @@
 ## ⚡ `Smart Contract Engineer` • `Full-Stack Web3 Developer`
 **Building secure, scalable, and production-ready Web3 infrastructure.**
 
---
+---
 
 ### `About Me`
 A results-driven **Smart Contract Engineer & Full-Stack Web3 Developer** focused on building secure, optimized, and scalable decentralized systems. I excel at converting complex blockchain logic into high-performance, full-stack dApps.
