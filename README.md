@@ -18,7 +18,7 @@ A results-driven **Smart Contract Engineer & Full-Stack Web3 Developer** focused
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **📜 Smart Contract Dev** | **`Smart Contract Engineering` • Solidity, Foundry, Hardhat, Chainlink** |
+| **📜 Smart Contract Dev** |Smart Contract Engineering • Solidity, Foundry, Hardhat, Chainlink |
 | **🔗 Web3 Interaction Layer** | **Smart Contract Integration, Ethers.js, Web3.js, Wagmi, Viem** |
 | **💻 Full-Stack & DevOps** | **Frontend-Backend Integration, JavaScript, React, Next.js, Node.js, REST APIs** |
 | **💼 Wallet & Storage** |  **Wallet Integration, WalletConnect, Reown AppKit, IPFS** |
