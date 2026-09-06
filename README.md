@@ -23,6 +23,7 @@ A results-driven **Smart Contract Engineer & Full-Stack Web3 Developer** focused
 | **💻 Full-Stack & DevOps** | **Frontend-Backend Integration, JavaScript, React, Next.js, Node.js, REST APIs** |
 | **💼 Wallet & Storage** |  **Wallet Integration, WalletConnect, Reown AppKit, IPFS** |
 | **⚙️ DevOps & Tooling** | **Web3 dApps Development, Git, GitHub** |
+| **📜 Smart Contract Dev** `Smart Contract Engineering` `Solidity` `Foundry` `Hardhat` `Chainlink` |
 
 ---
 
